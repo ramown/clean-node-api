@@ -1,5 +1,5 @@
 const LoginRouter = require('./login-router')
-const MissingParamError = require('../helpers/missing-param-erros')
+const MissingParamError = require('../helpers/missing-param-error')
 
 const makeSut = () => {
   class AuthUseCaseSpy {
