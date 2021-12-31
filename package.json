@@ -12,6 +12,9 @@
       "git add"
     ]
   },
+  "standard": {
+    "env": ["jest"]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ramown/clean-node-api.git"
@@ -28,5 +31,8 @@
     "lint-staged": "^12.1.4",
     "standard": "^16.0.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  }
 }
