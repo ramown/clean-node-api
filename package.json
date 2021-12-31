@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ramown/clean-node-api/issues"
   },
-  "homepage": "https://github.com/ramown/clean-node-api#readme"
+  "homepage": "https://github.com/ramown/clean-node-api#readme",
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
 }
